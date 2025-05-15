@@ -21,3 +21,13 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 
 1500.45 = R$ 1500.45
+
+
+## Update do Desafio
+
+Novas funcionalidades para o sistema:
+- Estabelecer um limite de 10 transações diárias.
+
+- Se o usuário tentar fazer uma transação após atingir o limite, deve ser informado que ele excedeu o número de transações permitidas para aquele dia.
+
+- Mostrar no extrato, a data e hora de todas as transações.
