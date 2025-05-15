@@ -1,7 +1,7 @@
 ## Desafio: Criando um Sistema Bancário com Python
 from colorama import Fore, Style, init
 from datetime import datetime, time, timezone, timedelta
-import pytz
+
 init(autoreset=True) # Initialize colorama
 
 ## Função para depósito ##
